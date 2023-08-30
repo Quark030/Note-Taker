@@ -64,6 +64,7 @@ If you have any questions about this project, feel free to contact me:
 
 
 ## Repo link:
+https://github.com/Quark030/Note-Taker.git
 
 ## Deployed website adress:
 https://limitless-mesa-90443-767a0320dca1.herokuapp.com/
